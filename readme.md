@@ -1,3 +1,5 @@
+### My name is Andrey Kovalevskiy and this is my test task for the project "Sequential circuit design service for students"
+
 # How to install the PyEDA library
 open the terminal and execute the command
 ```
